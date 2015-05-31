@@ -1,0 +1,12 @@
+plugins:
+  rsync_enabled:
+    default: false
+  rsync_url:
+    default:
+    client: true
+  rsync_username:
+    default:
+    client: true
+  rsync_password:
+    default:
+    client: true
